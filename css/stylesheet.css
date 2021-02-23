@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+.milli{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;   
+}
+
+.maradona{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;   
+}
